@@ -1,0 +1,22 @@
+[
+    {
+        "role": "user",
+        "type": "text",
+        "content": "hey find some info regarding adith skills"
+    },
+    {
+        "role": "assistant",
+        "type": "text",
+        "content": "Adith's skills include expertise in frameworks such as Django, Flask, PhiData, CrewAI, and React. He is also proficient in languages like Python, Java, PHP, C++, C, HTML, CSS, JavaScript, and Shell Scripting. Additionally, he possesses skills in Large Language Model (LLM) Quantization and Optimization, AI Chatbot Development, Speech Recognition and Processing, Selenium, and BeautifulSoup. Adith's interests lie in topics such as Artificial Intelligence, Machine Learning, Natural Language Processing, Chatbots, Quantization, Backend Development, APIs, Optimization, and Automation."
+    },
+    {
+        "role": "user",
+        "type": "text",
+        "content": "hey ?"
+    },
+    {
+        "role": "assistant",
+        "type": "text",
+        "content": "Hello! How can I assist you today?"
+    }
+]

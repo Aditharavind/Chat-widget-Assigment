@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "find me some details of adith college "
+    },
+    {
+        "role": "assistant",
+        "content": "Adith completed his Bachelor of Science in Computer Science (B.Sc) from the College of Applied Science in Mavelikara with a graduation date of May 2023. He then pursued his Master of Computer Application (MCA) from the College of Engineering in Chengunnur Alappuzha, with a graduation date of May 2025. These are the educational details of Adith related to his college studies."
+    }
+]

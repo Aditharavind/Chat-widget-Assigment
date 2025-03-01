@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "some of his project adith "
+    },
+    {
+        "role": "assistant",
+        "content": "Some of Adith's projects include \"CampusAdmin Pro,\" an advanced college administration platform developed using Django which aimed to streamline student and employee data management. Additionally, he worked on \"IBaby-Ecommerce,\" a Django-based e-commerce platform focused on baby products that offered a seamless shopping experience with user-friendly product listings, advanced filtering, and secure payment integration."
+    }
+]

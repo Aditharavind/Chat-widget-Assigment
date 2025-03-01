@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "hi how are u get me the details of adith "
+    },
+    {
+        "role": "assistant",
+        "content": "Hi! I'm here to help you. Here are the details of Adith:\n\nName: A. Adith\nContact: 9562138697\nEmail: Aditharavind03@gmail.com\nEducation:\n- Master of Computer Application (MCA) from College of Engineering, Chengunnur Alappuzha, Kerala (Graduation Date: May 2025)\n- Bachelor of Science in Computer Science (B.Sc) from College of Applied Science, Mavelikara (Graduation Date: May 2023)\nSkills: \nFrameworks - Django, Flask, PhiData, CrewAI, React\nLanguages - Python, Java, PHP, C++, C, HTML, CSS, JS, Shell Scripting\nWork Experience:\n- NYPUS AI (Junior Developer Intern) - Jul 2024 to Oct 2024\n- System Tron-Intern - Mar 2024 to Apr 2024\nProjects:\n- CampusAdminPro-AI Alappuzha, Kerala (Mini-Project) - Jan 2023 to Jun 2023\n- IBaby-Ecommerce - Jan 2023 to Apr 2023\nSkills & Interests:\n- Skills in Large Language Model (LLM) Quantization and Optimization, AI Chatbot Development, Speech Recognition and Processing, Selenium, BeautifulSoup\n- Interests in Artificial Intelligence, Machine Learning, Natural Language Processing, Chatbots, Backend Development, APIs, Optimization, Automation\n\nLet me know if you need more information or specific details about Adith."
+    }
+]

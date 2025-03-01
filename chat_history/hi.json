@@ -1,0 +1,22 @@
+[
+    {
+        "role": "user",
+        "type": "text",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "type": "text",
+        "content": "Hello! How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "type": "text",
+        "content": "w"
+    },
+    {
+        "role": "assistant",
+        "type": "text",
+        "content": "It seems like your query was cut off. Could you please provide more information or clarify your question so that I can assist you better?"
+    }
+]
